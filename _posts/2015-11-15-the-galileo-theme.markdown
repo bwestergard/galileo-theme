@@ -5,7 +5,7 @@ date:   2016-01-11 21:00:00 +0100
 categories: jekyll theme
 ---
 
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages. I bet you'd like more information about this sentence [^foo].
+Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages. I bet you'd like more information about this sentence [^a].
 
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
 
@@ -19,4 +19,4 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 </div>
 
-[^foo]: Well lucky for you, I've included more information in footnote form.
+[^a]: Well lucky for you, I've included more information in footnote form.
