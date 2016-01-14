@@ -2,21 +2,21 @@
 layout: post
 title:  "Introduction"
 date:   2016-01-11 21:00:00 +0100
-categories: jekyll theme
+categories:
 ---
 
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages. I bet you'd like more information about this sentence [^a].
+This blog is a place to collect and make available, to what will likely be a very limited audience, notes from my readings in the history of technology, the political economy of technical change, and attendant conceptual or philosophical issues.
 
-Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
+I work as a software engineer and my political sympathies are with the vestiges of the Marxian socialist left. Accordingly, I'm interested in the impact of information and computing technologies on the development of [labor processes](https://en.wikipedia.org/wiki/Labor_process_theory), and the ensuing impact
 
-<div class="post-image post-image--split">
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The first in an example of split-imagery" />
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The second in an example of split-imagery" />
-</div>
-
-<div class="post-image">
-    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
-</div>
-
-[^a]: Well lucky for you, I've included more information in footnote form.
+- Topics of interest
+  - automation
+  - labor process change
+  - class composition
+  - socialist transition
+- Bio motivation
+  - WIRED/Slashdot
+  - Youthful ideas of technological progress
+  - Work experience
+- Method
+- Symbolism
